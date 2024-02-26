@@ -1,0 +1,56 @@
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    background: linear-gradient(35deg, rgb(36, 155, 0) 0%, rgb(0, 83, 166) 100%);
+}
+
+#title_h3
+{
+    color: rgb(255, 255, 255);
+    font-weight: 1000;
+}
+
+.note
+{
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+    font-weight: 1000;
+}
+
+.note2
+{
+    font-size: 15px;
+    color: rgb(0, 0, 0);
+    font-weight: 1000;
+}
+
+body
+{
+    background-size: cover;
+    background: linear-gradient(90deg, rgb(98, 0, 255) 0%, rgb(181, 0, 0) 100%);
+}
+
+#play_button
+{
+    width: 90px;
+    height: 40px;
+    font-size: 23px;
+    border-radius: 5px;
+}
+
+#play_button:hover
+{
+    color: white;
+    background-color: blue;
+    border-radius: 3px;
+}
+
+canvas
+{
+    margin-top: 300px;
+    border-radius: 15px;
+    box-shadow: 7px 7px 15px rgb(228, 244, 0);
+    background-color: black;
+}
